@@ -1,0 +1,18 @@
+/target
+/.local
+/graphify-out
+# Game files and anything made from them never go in git.
+*.iso
+*.gcm
+*.rvz
+*.ciso
+*.dol
+*.rel
+*.prs
+*.adx
+*.afs
+*.gvr
+*.gvm
+*.raw
+*.gci
+*.sav

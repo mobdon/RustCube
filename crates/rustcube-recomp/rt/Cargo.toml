@@ -1,0 +1,9 @@
+[package]
+name = "rustcube-recomp-rt"
+version = "0.1.0"
+edition = "2021"
+publish = false
+license = "MIT"
+description = "Runtime the recompiled code links against (kept apart so generator and host changes do not rebuild the generated crates)"
+
+[dependencies]
